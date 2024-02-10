@@ -6,7 +6,7 @@
 # REFERENCES
 #https://www.youtube.com/watch?v=LpZmZs2_BC4
 #https://www.freecodecamp.org/news/python-split-string-how-to-split-a-string-into-a-list-or-array-in-python/#:~:text=split()%20%3A%20This%20is%20the,space%2C%20comma%2C%20or%20tab.
-#
+#https://www.google.com/search?q=w3schools&rlz=1C5CHFA_enBT1069BT1070&oq=we3&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyBggCEEUYQDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIPCAYQLhgKGMcBGNEDGIAEMgkIBxAAGAoYgATSAQgyOTM1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
 ################################
 # SOLUTION
 # Your Solution Score:
